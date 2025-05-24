@@ -1,0 +1,304 @@
+@media (max-width: 1299px) {
+    .common-h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .btn-main {
+        padding: 12px 10px;
+        font: normal normal bold 12px/20px var(--font);
+    }
+
+    .view-btn i {
+        font-size: 18px;
+    }
+
+    .owl-nav {
+        margin-top: 30px !important;
+    }
+
+    .owl-prev,
+    .owl-next {
+        position: unset !important;
+    }
+
+    .hero-fe-wrap {
+        padding: 10px;
+    }
+
+    .hero-fe-item {
+        padding: 10px;
+    }
+
+    .hero-fe-txt h6 {
+        font: normal normal 500 12px/20px var(--font);
+    }
+
+    .hero-fe-txt p {
+        font: normal normal 500 10px/20px var(--font);
+    }
+
+    .introducing-wrap .in-old,
+    .introducing-wrap .in-new {
+        padding: 30px;
+    }
+
+    .old-txt p,
+    .new-txt p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .customers {
+        padding: 50px 0;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .fs-14 {
+        font-size: 12px;
+    }
+
+    .m-second .form-floating .dgwt-wcas-search-wrapp {
+        width: 100%;
+    }
+
+    .call-img img {
+        max-width: 30px;
+        max-height: 30px;
+    }
+
+    .contact .call-txt h6 a {
+        font-size: 14px;
+    }
+
+    .contact .call-txt p {
+        font-size: 10px;
+    }
+
+    .follow .icons i {
+        font-size: 12px;
+    }
+
+    .third .navigation-item {
+        font-size: 14px;
+    }
+
+    /* .hero-fe-item{
+        border: 0;
+    } */
+    .hero-fe-item{
+        align-items: start;
+        border: 0;
+    }
+    .hero-fe-img img {
+        max-width: 25px;
+    }
+
+    .hero-fe-txt h6 {
+        font-size: 10px;
+        line-height: 10px;
+    }
+
+    .hero-fe-txt p {
+        font-size: 8px;
+        line-height: 10px;
+    }
+
+    .hero-fe-item {
+        padding: 0px;
+    }
+
+    .featured-products {
+        padding: 50px 0;
+    }
+
+    .fe-products,
+    .full-dt-fe {
+        border: 0;
+    }
+
+    .full-dt-fe-img {
+        max-width: 400px;
+        margin: 0 auto 32px;
+    }
+
+    .full-dt-right-item {
+        border: 1px solid #E4E7E9;
+    }
+
+    .mb-20 {
+        margin-bottom: 20px;
+    }
+
+    .full-dt-right-img {
+        height: unset;
+    }
+
+    .our-pt-wrap ul li {
+        padding: 0;
+        max-width: 120px;
+    }
+
+    .orthopedic-wrap .heading {
+        display: block;
+    }
+
+    .orthopedic-wrap .heading .lft {
+        margin-bottom: 20px;
+    }
+
+    .main-products .filer-wrap {
+        gap: 15px;
+    }
+
+    .categories-sidebar h4 {
+        padding: 10px;
+    }
+
+    .categories-sidebar .product-categories {
+        padding: 10px;
+    }
+
+    .box-btn {
+        padding: 10px;
+    }
+
+    .blog-posts {
+        padding: 50px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .m-second {
+        position: relative;
+        padding: 10px 0;
+    }
+
+    .m-second .form-floating {
+        position: absolute;
+        top: 65px;
+        right: 0px;
+    }
+
+    .first-slide {
+        padding: 20px;
+    }
+
+    .top-first {
+        justify-content: center;
+        padding: 10px 0;
+    }
+
+    .m-second .navbar-brand {
+        max-width: 180px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .top-first p {
+        text-align: center;
+    }
+
+    button.navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    .third ul li {
+        margin: 10px 0;
+    }
+
+    .contact {
+        margin-top: 10px;
+    }
+
+    .common-h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .hero .owl-dots {
+        display: none;
+    }
+
+    .in-old,
+    .in-new {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .insurers-wrap,
+    .blog .hero-wrap {
+        padding: 20px !important;
+    }
+
+    .insurers .h-txt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .first-slide,
+    .blog .hero-wrap {
+        background-position: left;
+    }
+
+    .full-dt-right-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .card-blog .card-body {
+        padding: 15px;
+    }
+
+    .btn-light,
+    .blog-top-bar .search-submit,
+    .btn-main {
+        font: normal normal bold 12px/20px var(--font);
+        padding: 10px 20px;
+    }
+
+    .footer {
+        padding: 20px;
+    }
+
+    .blog-post-wrap .recomended {
+        margin-bottom: 10px;
+    }
+
+    .blog-post-wrap .recomended button {
+        font-size: 10px;
+    }
+
+    .blog-top-bar .search-form label {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .blog-top-bar .search-form label input{
+        width: 100%;
+    }
+    .hero-fe-wrap .row{
+        gap: 10px;
+    }
+    .ref-form .hero-wrap {
+        padding: 20px;
+    }
+    .page-template-Back-Braces-Online-Referrals .hero-wrap{
+        background-position: left;
+    }
+    .ref-form .formm-wrap{
+        padding: 20px;
+    }
+}
